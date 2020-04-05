@@ -10,3 +10,4 @@ While it has great potential, blockchain technology development is still early d
 Blockchain standards organizations, universities and start-ups have proposed newer consensus protocols and methods for spreading out the computational and data storage workload to enable greater transactional throughput and overall scalability – a persistent problem for blockchain.  And the Linux Foundation’s Hyperledger Project has created modular tools for building out blockchain collaboration networks.
 
 While some industry groups are working toward standardizing versions of blockchain software, there are also hundreds of startups working on their own versions of the distributed ledger technology..
+.

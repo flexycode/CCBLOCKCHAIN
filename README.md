@@ -1,4 +1,4 @@
-# modern-blockchain
+# Blockchain 101
 
 What is blockchain and how does it work?
 First and foremost, blockchain is a public electronic ledger built around a P2P system that can be openly shared among disparate users to create an unchangeable record of transactions, each time-stamped and linked to the previous one. Every time a set of transactions is added, that data becomes another block in the chain (hence, the name).

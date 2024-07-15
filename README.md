@@ -94,3 +94,5 @@ At the end of the course, the studend must be able to:
 * Alchemy - Alternative free online blockchain university that you can dive in
 * Web3 Blockchain Developer - Mark Muskardin, he developed the web application for Notional (www.notional.finance) - a new DeFi protocol for fixed-interest peer-to-peer lending and borrowing.
 * Binance - academy.binance.com
+
+#### COMING SOON

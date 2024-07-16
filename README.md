@@ -39,14 +39,15 @@ While some industry groups are working toward standardizing versions of blockcha
 ## [Introduction](#introduction)
 This repository contains source code for CCBLOCKCHAIN "Blockchain Technology basic essentials that focuses on Basic and Intermediate concepts, codes and algorithm for Blockchain development.
 
-#### Course Description:
+#### ✨ Course Description:
 This course is a advance topic that I've created in my own knowledge and source of collective information - Fundamentals of Programming is required. The course covers advanced topics in Blockchain development to train students in developing decentralize application. Topics to be covered include history of blockchain technology, consensus algorithm, solidity, dApp, EVM, Ethereum, Bitcoin, Solana, Chainlink, and many more.
 
-#### Course outcomes:
-At the end of the course, the studend must be able to: 
-1. Create a program that uses recursions and regular expressions
-2. Implement Object-Oriented in program design
-3. Create and document application that uses a modern graphical user interface (GUI)
+#### ✨ Course outcomes:
+At the end of the course, the student must be able to: 
+1. Basic and advance understanding of blockchain development
+2. Create a smart contract using solidity
+3. Implement Object-Oriented in program design
+4. Create and document decentralize application that uses a consensus algorithm
 
 ###### ⚡ Course Outline: ACO -CI-F- 030(01) Course Outline - CCPRGG2L - COM   
 
@@ -79,7 +80,7 @@ At the end of the course, the studend must be able to:
 | 13       | June 29        | Course Synthesis & Final Examination                 |                                                                                                     |
 -->
 
-#### SUGGESTED READINGS, VIDEOS AND REFERENCES 
+#### 👷 SUGGESTED READINGS, VIDEOS AND REFERENCES 📓
 
 * EatTheBlocks - Julien Klepatch
 * Dapp University - Greggory
@@ -95,13 +96,17 @@ At the end of the course, the studend must be able to:
 * Web3 Blockchain Developer - Mark Muskardin, he developed the web application for Notional (www.notional.finance) - a new DeFi protocol for fixed-interest peer-to-peer lending and borrowing.
 * Binance - academy.binance.com
 
-#### COMING SOON
+#### 🚀 COMING SOON
 
-To do list:
+✍️ To do list:
 - Build table for the course outline
 - Setup contribution panel
 - Upload documentation such as PowerPoint
 - Setup docker CLI
 - Upload and build smart contract
+
+# 🔑 License
+
+# 📜 Changelogs
 
 

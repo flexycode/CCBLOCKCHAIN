@@ -97,4 +97,11 @@ At the end of the course, the studend must be able to:
 
 #### COMING SOON
 
+To do list:
+- Build table for the course outline
+- Setup contribution panel
+- Upload documentation such as PowerPoint
+- Setup docker CLI
+- Upload and build smart contract
+
 

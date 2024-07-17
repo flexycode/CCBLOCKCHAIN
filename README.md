@@ -107,9 +107,10 @@ At the end of the course, the student must be able to:
 
 # 🔑 License
 
+# 📜 Changelogs
 
 <!-- Background github cover with short introduction down below 
-# 📜 Changelogs
+
 
 # README
 

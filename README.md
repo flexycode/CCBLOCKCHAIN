@@ -107,6 +107,24 @@ At the end of the course, the student must be able to:
 
 # 🔑 License
 
+
+<!-- Background github cover with short introduction down below 
 # 📜 Changelogs
 
+# README
 
+> [!NOTE]
+> Sample only bala ka sa buhay mo
+
+> [!TIP]
+>  Ey ka muna Ey
+
+> [!IMPORTANT]
+> Crucial Important
+
+> [!WARNING]
+> Mama mo warning
+
+> [!CAUTION]
+> Fetus delitus
+-->

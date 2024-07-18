@@ -105,6 +105,8 @@ At the end of the course, the student must be able to:
 - Setup docker CLI
 - Upload and build smart contract
 
+
+<!-- License -->
 # 🔑 License
 
 # 📜 Changelogs

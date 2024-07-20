@@ -120,13 +120,14 @@ At the end of the course, the student must be able to:
 > Sample only bala ka sa buhay mo
 
 > [!TIP]
->  Ey ka muna Ey
+>  Ey ka muna Ey Eyy
 
 > [!IMPORTANT]
-> Crucial Important
+> Crucial Important deep shit
 
 > [!WARNING]
 > Mama mo warning
+> Papa mo warning
 
 > [!CAUTION]
 > Fetus delitus

@@ -111,8 +111,9 @@ At the end of the course, the student must be able to:
 <!-- License -->
 # 🔑 License
 
+<!-- Add license code
 
-
+-->
 
 <!-- Changelogs -->
 # 📜 Changelogs

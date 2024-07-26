@@ -111,6 +111,9 @@ At the end of the course, the student must be able to:
 <!-- License -->
 # 🔑 License
 
+
+
+
 <!-- Changelogs -->
 # 📜 Changelogs
 
@@ -124,6 +127,7 @@ At the end of the course, the student must be able to:
 
 > [!TIP]
 >  Ey ka muna Ey Eyy
+> Add Contribution
 
 > [!IMPORTANT]
 > Crucial Important deep shit

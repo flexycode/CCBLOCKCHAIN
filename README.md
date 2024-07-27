@@ -52,7 +52,7 @@ At the end of the course, the student must be able to:
 3. Implement Object-Oriented in program design
 4. Create and document decentralize application that uses a consensus algorithm
 
-###### ⚡ Course Outline: ACO -CI-F- 030(01) Course Outline - CCPRGG2L - COM   
+###### ⚡ Course Outline: [Introduction to blockchain technologies ](https://www.coursera.org/learn/introduction-blockchain-technologies) 
 
 ## [Lesson](#lesson)              
 

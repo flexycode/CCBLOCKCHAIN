@@ -56,7 +56,7 @@ At the end of the course, the student must be able to:
 
 ## [Lesson](#lesson)              
 
-### CCPRGG1L Table lecture
+### CCBLOCKCHAIN Table lecture
 #### Course Outline and Timeframe
 
 <!-- Background github cover with short introduction down below 

@@ -129,6 +129,7 @@ At the end of the course, the student must be able to:
 > [!TIP]
 >  Ey ka muna Ey Eyy
 > Add Contribution
+> Add comment
 
 > [!IMPORTANT]
 > Crucial Important deep shit

@@ -140,6 +140,7 @@ At the end of the course, the student must be able to:
 ss'
 > Will create table
 > And Topic
+> Partial code only
 
 > [!CAUTION]
 > Fetus delitus

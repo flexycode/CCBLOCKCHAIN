@@ -141,7 +141,7 @@ ss'
 > Will create table
 > And Topic
 > Partial code only
-> I
+> Idol
 
 > [!CAUTION]
 > Fetus delitus

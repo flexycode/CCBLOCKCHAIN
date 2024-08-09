@@ -143,6 +143,7 @@ ss'
 > Partial code only
 > Idol Luka
 > Hello nothing to edit for now
+> No edit code for now, I'm just bored
 
 > [!CAUTION]
 > Fetus delitus

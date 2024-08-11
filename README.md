@@ -145,6 +145,7 @@ ss'
 > Hello nothing to edit for now
 > No edit code for now, I'm just bored
 > I need some time
+> Wala na akong maisip hahaha
 
 
 > [!CAUTION]

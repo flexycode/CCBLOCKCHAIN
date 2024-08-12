@@ -137,15 +137,15 @@ At the end of the course, the student must be able to:
 > [!WARNING]
 > Mama mo warning
 > Papa mo warning
-ss'
+
 > Will create table
 > And Topic
 > Partial code only
 > Idol Luka
 > Hello nothing to edit for now
-> No edit code for now, I'm just bored
-> I need some time
-> Wala na akong maisip hahaha
+
+
+
 
 
 > [!CAUTION]

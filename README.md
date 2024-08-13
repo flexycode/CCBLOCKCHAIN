@@ -143,7 +143,7 @@ At the end of the course, the student must be able to:
 > Partial code only
 > Idol Luka
 > Hello nothing to edit for now
-> Luh
+> Implement blockchain soon
 
 
 

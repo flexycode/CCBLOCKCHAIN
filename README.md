@@ -144,6 +144,7 @@ At the end of the course, the student must be able to:
 > Idol Luka
 > Hello nothing to edit for now
 > Implement blockchain soon 
+> No code for today
 -->
 
 

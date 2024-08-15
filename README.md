@@ -148,61 +148,7 @@ At the end of the course, the student must be able to:
 -->
 
 
-<!-- License 
-# Highlevel Architecture
-
-
-                                      +---------------+
-                                      |  Load Balancer  |
-                                      +---------------+
-                                             |
-                                             |
-                                             v
-                                      +---------------+
-                                      |  API Gateway    |
-                                      |  (Handles incoming  |
-                                      |   requests and routes  |
-                                      |   them to appropriate  |
-                                      |   services)          |
-                                      +---------------+
-                                             |
-                                             |
-                                             v
-                                      +---------------+       +---------------+
-                                      |  User Service    |       |  Book Service    |
-                                      |  (Handles user    |       |  (Handles book    |
-                                      |   authentication,  |       |   catalog, and    |
-                                      |   profile management)|       |   inventory)      |
-                                      +---------------+       +---------------+
-                                             |                       |
-                                             |                       |
-                                             v                       v
-                                      +---------------+       +---------------+
-                                      |  Order Service    |       |  Payment Service  |
-                                      |  (Handles order    |       |  (Handles payment  |
-                                      |   processing and    |       |   processing and    |
-                                      |   fulfillment)     |       |   transaction management)|
-                                      +---------------+       +---------------+
-                                             |                       |
-                                             |                       |
-                                             v                       v
-                                      +---------------+       +---------------+
-                                      |  Inventory Service|       |  Shipping Service  |
-                                      |  (Handles inventory|       |  (Handles shipping  |
-                                      |   management and    |       |   and logistics)    |
-                                      +---------------+       +---------------+
-                                             |                       |
-                                             |                       |
-                                             v                       v
-                                      +---------------+       +---------------+
-                                      |  Database        |       |  Message Queue    |
-                                      |  (Stores user,    |       |  (Handles async    |
-                                      |   book, and order  |       |   communication    |
-                                      |   data)            |       |   between services) |
-                                      +---------------+       +---------------+
-
-
--->
+<!--
 > [!CAUTION]
 > Fetus delitus
 > Add comment

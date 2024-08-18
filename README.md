@@ -146,6 +146,7 @@ At the end of the course, the student must be able to:
 > Implement blockchain soon 
 > No code for today
 > Will do this in weekend
+> Will do this later
 -->
 
 

@@ -147,6 +147,7 @@ At the end of the course, the student must be able to:
 > No code for today
 > Will do this in weekend
 > Will do this later
+> I need to do some tutorial here
 -->
 
 

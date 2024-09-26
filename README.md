@@ -148,6 +148,7 @@ At the end of the course, the student must be able to:
 > Will do this in weekend
 > Will do this later
 > I need to do some tutorial here
+> Need to refactor some code in this repo
 -->
 
 

@@ -130,6 +130,7 @@ At the end of the course, the student must be able to:
 >  Ey ka muna Ey Eyy
 > Add Contribution
 > Add comment
+> Add some shitty code this coming november
 
 > [!IMPORTANT]
 > Crucial Important deep shit

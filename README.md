@@ -185,7 +185,7 @@ At the end of the course, the student must be able to:
 ## [8.0.0] - 2024-09-26      
 ### Added  
 - ✨ Coming Soon
-- ✨ 
+- ✨ Coming Soon
 
 🧊 Blockchain Technology
 ```

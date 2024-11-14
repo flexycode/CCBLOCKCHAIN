@@ -139,10 +139,7 @@ At the end of the course, the student must be able to:
 > Mama mo warning
 > Papa mo warning
 
-> Will create table
-> And Topic
-> Partial code only
-> Idol Luka
+
 > Hello nothing to edit for now
 > Implement blockchain soon 
 > No code for today
@@ -186,6 +183,10 @@ At the end of the course, the student must be able to:
 ### Added  
 - ✨ Coming Soon
 - ✨ Coming Soon
+
+## [8.0.0] - 2024-11-14      
+### Added  
+- ✨ Revamp CCBLOCKCHAIN Course 
 
 🧊 Blockchain Technology
 ```

@@ -148,8 +148,6 @@ At the end of the course, the student must be able to:
 > I need to do some tutorial here
 > Need to refactor some code in this repo
 > Fix some code in my local machine 
-> Watching Worlds
-> Add LiveStream Montage
 -->
 
 
